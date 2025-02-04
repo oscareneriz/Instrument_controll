@@ -1,2 +1,2 @@
 # Instrument_controll
-This repository controlls the isntrument and allows easy scripting to create tests.
+This repository gives you controll of all sub-systems of the instrument, has built in processes and allows easy scripting to make tests.
