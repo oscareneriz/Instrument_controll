@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ISUI
+Comment=DNA Script Engineering Tool
+Exec=bash -i -c "source ~/Documents/ISUI/launch.sh"
+Terminal=true
+Type=Application
+Categories=Utility;Application;
+Name[en_US]=ISUI.desktop
